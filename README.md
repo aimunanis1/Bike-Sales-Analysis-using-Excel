@@ -18,8 +18,7 @@ The first chart shows the **revenue** and **profit** trends over different years
 - **Key Insight**: By analyzing the performance across different years, I could spot patterns in **growth** or **decline**, helping to identify periods that may have required more marketing efforts or a change in strategy.  
 - **Takeaway**: Fluctuations in revenue can provide clues on what to focus on in future years.
 
-![Revenue and Profit by Year](<img width="410" alt="image" src="https://github.com/user-attachments/assets/dead01df-56f9-498b-8c13-2758efd84b27" />
-)
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/1aca2c08-24bd-497d-a5c5-09538384be72"/>
 
 ---
 
@@ -29,8 +28,8 @@ Next, I visualized **product revenue** by country. This chart gives a **global p
 - **Key Insight**: Countries like **Australia** and **United Kingdom** showed strong sales, while others showed lower performance. This highlighted potential opportunities for growth in underperforming regions.  
 - **Takeaway**: If certain countries are lagging in sales, **targeted marketing** strategies could help boost sales in those regions. 
 
-![Product Revenue by Country](<img width="572" alt="image" src="https://github.com/user-attachments/assets/a02a7162-c714-481d-aa63-4e301f641205" />
-)
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/b602fad3-d020-442c-a020-8a82cadc42fd1"/>
+
 
 ---
 
@@ -40,8 +39,9 @@ The next chart breaks down **revenue** by **age group**. This is valuable for un
 - **Key Insight**: The **Adult (35-64)** and **Young Adults (25-34)** age groups were the top performers in terms of sales.  
 - **Takeaway**: While these groups are thriving, **younger consumers** (under 25) might need more targeted marketing to capture their attention.
 
-![Revenue by Age Group](<img width="370" alt="image" src="https://github.com/user-attachments/assets/1b437d86-b2c7-40f6-a8c3-52f08fb129e9" />
-)
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/a75e97f1-c4ba-484a-850f-720cd43c5cd1"/>
+
+
 
 ---
 
@@ -52,17 +52,6 @@ Let’s get deeper! This analysis digs into where the **most profitable markets*
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/5ba70409-3e8f-4be9-9d92-72c4e7950ee6" />
 
-
-
-In which markets does Germany have customers?
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/b37ed2e8-9b6d-43f4-99f8-315cb93173df" />
-
-
-What are the most profitable markets by country, age group, and gender?
-
-<img width="403" alt="image" src="https://github.com/user-attachments/assets/ad73ce92-e873-4a97-8144-f934b5dc1648" />
-
-
 ---
 
 ### 2. **Where Does Germany Have Customers?**
@@ -71,8 +60,7 @@ I also explored **Germany’s customer base**—where are their sales coming fro
 - **Germany** showed strong sales from **Adult Females**, but there was an opportunity to capture **Male Youth**.  
 - Targeting younger male customers in Germany could open up new potential for growth. 
 
-![Germany’s Sales by Demographic](path_to_image_germany_sales_demographic.png)
-
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/e6edac8e-ca9d-4a7b-aa2b-460427b57448" />
 ---
 
 ## 🎉 **Conclusion & Next Steps**
